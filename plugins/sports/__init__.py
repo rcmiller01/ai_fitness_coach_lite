@@ -1,0 +1,1 @@
+# AI Fitness Coach Lite - Sports Plugin Modules

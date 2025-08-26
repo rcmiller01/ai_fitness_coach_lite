@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2024-08-26T10:00:00",
+    "workout_type": "strength",
+    "exercises": [
+      {
+        "name": "Push-ups",
+        "category": "upper_body",
+        "sets": [
+          {
+            "reps": 15,
+            "weight": null,
+            "rpe": 7
+          }
+        ]
+      }
+    ],
+    "duration_minutes": 45,
+    "workout_rating": 8
+  }
+]

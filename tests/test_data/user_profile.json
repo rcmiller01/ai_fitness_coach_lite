@@ -1,0 +1,13 @@
+{
+  "user_id": "test_user_001",
+  "age": 30,
+  "sex": "M",
+  "height_cm": 175.0,
+  "weight_kg": 70.0,
+  "fitness_level": "intermediate",
+  "goals": [
+    "strength",
+    "weight_loss"
+  ],
+  "conditions": []
+}

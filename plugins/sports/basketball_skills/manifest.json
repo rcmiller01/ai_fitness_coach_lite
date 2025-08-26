@@ -1,0 +1,39 @@
+{
+  "id": "basketball_skills",
+  "name": "Basketball Skills Analyzer",
+  "version": "1.0.0",
+  "description": "Professional basketball skills analysis including shooting form, dribbling technique, and defensive stance. Advanced biomechanical analysis for basketball players of all levels.",
+  "author": "AI Fitness Coach Team",
+  "plugin_type": "sport_analysis",
+  "price": 14.99,
+  "trial_days": 7,
+  "requires_core_version": "1.0.0",
+  "dependencies": [
+    "mediapipe>=0.10.0",
+    "opencv-python>=4.5.0",
+    "numpy>=1.21.0",
+    "scikit-learn>=1.0.0"
+  ],
+  "permissions": [
+    "camera",
+    "microphone",
+    "storage"
+  ],
+  "entry_point": "basketball_plugin.py",
+  "icon": "basketball_icon.png",
+  "screenshots": [
+    "basketball_shooting_analysis.png",
+    "basketball_dribbling_demo.png",
+    "basketball_defense_stance.png"
+  ],
+  "tags": [
+    "basketball",
+    "shooting",
+    "dribbling",
+    "defense",
+    "form analysis",
+    "professional training"
+  ],
+  "created_date": "2024-08-26T11:00:00Z",
+  "updated_date": "2024-08-26T11:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "golf_pro",
+  "name": "Golf Pro Swing Analyzer",
+  "version": "1.0.0",
+  "description": "Professional golf swing analysis with AI-powered form correction, tempo tracking, and personalized coaching tips. Analyzes swing plane, club path, weight transfer, and follow-through for dramatic improvement.",
+  "author": "AI Fitness Coach Team",
+  "plugin_type": "sport_analysis",
+  "price": 9.99,
+  "trial_days": 7,
+  "requires_core_version": "1.0.0",
+  "dependencies": [],
+  "permissions": ["camera", "pose_analysis", "voice_feedback"],
+  "entry_point": "golf_plugin.py",
+  "icon": "golf_icon.png",
+  "screenshots": ["swing_analysis.png", "tempo_chart.png", "tips_display.png"],
+  "tags": ["golf", "swing", "analysis", "professional", "coaching"],
+  "created_date": "2025-08-26T16:19:00",
+  "updated_date": "2025-08-26T16:19:00"
+}
